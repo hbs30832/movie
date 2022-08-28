@@ -18,7 +18,7 @@
     "styled-reset": "^4.4.2",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://hbs30832.github.io/page_test",
+  "homepage": "https://hbs30832.github.io/movie",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
